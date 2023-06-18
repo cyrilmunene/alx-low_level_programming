@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Print all single digit base 10
+ * Description:'Print all single digit base 10'
  * Followed by a new line
+ * Return: Always 0
  */
 int main(void)
 {
