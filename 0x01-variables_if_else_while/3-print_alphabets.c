@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - Entry point
- * Print alphabet in lowercase 
+ * Print alphabet in lowercase
  * Then in new line prints in uppercase
  * Return: Always(0)
  */
@@ -20,6 +20,6 @@ int N = 65;
 	putchar(N);
 	N++;
 	}
-	putchar ('\n');
+	putchar('\n');
 	return (0);
 }
