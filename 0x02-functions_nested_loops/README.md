@@ -1,1 +1,1 @@
-Functions are fun
+New Functions
